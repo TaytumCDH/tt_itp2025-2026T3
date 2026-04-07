@@ -1,4 +1,1 @@
-
-print("18477")
-print("Kendrick Ave")
-print("Lakeville, MN 55044")
+print("18477 \nKenrick Ave\nLakeville, MN 55044")
