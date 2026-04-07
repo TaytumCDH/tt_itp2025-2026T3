@@ -1,1 +1,1 @@
-# tt_itp2025-2026T3
+print(“Hello, World!”)
