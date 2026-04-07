@@ -1,2 +1,4 @@
 
-print('"You can\'t be afraid to fail. It\'s the only way you succeed."-Lebron james')
+print("18477")
+print("Kendrick Ave")
+print("Lakeville, MN 55044")
