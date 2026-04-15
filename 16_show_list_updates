@@ -1,1 +1,3 @@
 Top5Favorite = ['Invincible', 'Yuji', 'Spongebob', 'Grant Gustin', 'Tom Holland']
+
+print(Top5Favorite[2],Top5Favorite[3],Top5Favorite[4],Top5Favorite[1],Top5Favorite[0])
