@@ -1,0 +1,5 @@
+hill=[]
+for x in range(0,5):    
+    hill.append('x')
+    print(hill)
+
