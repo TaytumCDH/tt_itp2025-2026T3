@@ -1,0 +1,2 @@
+x = ("tonderes")
+print( x + " went to the bar. At the bar, " +  str(x) + " bought beer. "+ str(x) +" went home and drank the beer.")
