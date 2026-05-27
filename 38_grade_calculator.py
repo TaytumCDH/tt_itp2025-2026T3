@@ -25,3 +25,6 @@ elif GPA >= 0.67:
 elif GPA >= 0.00:
     print("You have an F avarage gpa")
 
+#1/1 - Formatting
+#1/1 - Comments
+#3/3 - Content

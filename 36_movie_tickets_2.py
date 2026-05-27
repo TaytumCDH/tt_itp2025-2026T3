@@ -6,3 +6,7 @@ elif age >= '65':
     print('your ticket costs $10')
 elif age >= '13':
     print('your ticket costs $12')
+
+#1/1 - Formatting
+#1/1 - Comments
+#3/3 - Content

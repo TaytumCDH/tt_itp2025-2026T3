@@ -21,3 +21,7 @@ print("Baking has finished with the toppings:")
 for X in toppings:
     if X in second_pizza:
          print(X)
+
+#1/1 - Formatting
+#1/1 - Comments
+#3/3 - Content

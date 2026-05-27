@@ -11,3 +11,7 @@ for FIB in range(100):
         print("Buzz")
     else:
         print(FIB)
+
+#1/1 - Formatting
+#1/1 - Comments
+#3/3 - Content

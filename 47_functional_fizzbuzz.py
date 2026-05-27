@@ -12,3 +12,7 @@ def FizzBuzz(X):
     else:
         print(FIB)
 FizzBuzz(1000)
+
+#1/1 - Formatting
+#1/1 - Comments
+#3/3 - Content

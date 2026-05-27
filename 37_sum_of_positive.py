@@ -7,3 +7,7 @@ for A in a_list_of_positive_and_negative_numbers:
         total_sum +=A
         #this adds all the positive numbers together and ignores the negative numbers.
 print("The total sum of all of the positive numbers is " + str(total_sum) +str("!"))
+
+#1/1 - Formatting
+#1/1 - Comments
+#3/3 - Content

@@ -7,3 +7,6 @@ for X in Check:
     else: 
         print("I cannot find the string " + str(X) + " in the preamble")
 
+#1/1 - Formatting
+#1/1 - Comments
+#3/3 - Content

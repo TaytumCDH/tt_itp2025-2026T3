@@ -7,3 +7,7 @@ else:
     print('your ticket costs $12')
 if age > 110:
      print("...but your dead")
+
+#1/1 - Formatting
+#1/1 - Comments
+#3/3 - Content

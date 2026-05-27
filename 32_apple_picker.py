@@ -12,3 +12,7 @@ for x in orchard:
     truck.append(basket)
     basket=0
     print(truck)
+
+#1/1 - Formatting
+#0/1 - Comments
+#3/3 - Content

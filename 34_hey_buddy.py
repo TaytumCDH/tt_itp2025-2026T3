@@ -5,3 +5,7 @@ for f in friendlist:
     if f == 'ben':
         print("Hello my friend ben")
 #And it works
+
+#1/1 - Formatting
+#1/1 - Comments
+#3/3 - Content
